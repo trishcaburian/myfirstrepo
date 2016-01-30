@@ -1,4 +1,1 @@
-hello
-this is a sample text file
-
-nyeh heh heh heh!
+this is a sample text
